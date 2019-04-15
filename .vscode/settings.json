@@ -1,0 +1,11 @@
+{
+  "files.exclude": {
+    "engines": true,
+    "node_modules": true,
+    "*.d.ts": true,
+    "**/*.js": true,
+    "**/*.map": true,
+    "*.tgz": true,
+    "package-lock.json": true,
+  }
+}
